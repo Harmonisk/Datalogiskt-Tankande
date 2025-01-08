@@ -32,8 +32,8 @@ Ett tärningspel där användaren ska kasta 1st tärning. Vid första kastet ska
 	1. räkna upp räknevariabeln med ett
 	2. generera ett slumpmässigt tal inom spannet
 	3. jämför det slumpmässigt genererade talet med platsvariabeln
-		4. 3. 1. om det är samma tal
-			4. 3. 1. 1. räkna upp platsvariabeln med ett
-		4. 3. 2. om det inte är samma tal
-			4. 3. 2. 1. sätt platsvariabeln till 1
+		1. om det är samma tal
+			1. räkna upp platsvariabeln med ett
+		2. om det inte är samma tal
+			1. sätt platsvariabeln till 1
 5. skriv ut räknevariabeln

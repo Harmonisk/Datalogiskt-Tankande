@@ -11,11 +11,11 @@ Spelet har 3st tärningar.
 
 1. skapa 3 tärningar
 2. kasta 3 tärningar
-    2. 1. spara högsta tärningen i en lista
+    1. spara högsta tärningen i en lista
 3. kasta 2 tärningar
-    3. 1. spara högsta tärningen i en lista
+    1. spara högsta tärningen i en lista
 3. kasta 1 tärning
-    4. 1. addera värdet på tärningen till värdet på de två sparade tärningarna
+    1. addera värdet på tärningen till värdet på de två sparade tärningarna
 
 ## Pattern recognition
 
@@ -35,9 +35,9 @@ Spelet har 3st tärningar.
 2. skapa en tärningsräkningsvariabel och sätt den till 3
 3. skapa en lista för högsta kast
 4. gör följande tills tärningsräkningsvariabeln är 0:
-    4. 1. skapa en högsta kastvariabel och sätt den till 0
-    4. 2. gör följande lika många gånger som tärningsräkningsvariabeln:
-        4. 2. 1. generera ett tal i spannet
-        4. 2. 1. om talet är högre än högsta kastvariabeln byt ut högsta kastvariabeln mot talet
-    4. 3. addera högsta kastvariabeln till listan för högsta kastaa
+    1. skapa en högsta kastvariabel och sätt den till 0
+    2. gör följande lika många gånger som tärningsräkningsvariabeln:
+        1. generera ett tal i spannet
+        2. om talet är högre än högsta kastvariabeln byt ut högsta kastvariabeln mot talet
+    3. addera högsta kastvariabeln till listan för högsta kastaa
 5. summera alla talen i högsta kastlistan
